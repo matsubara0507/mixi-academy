@@ -15,3 +15,5 @@
 
 ## Links
 
+- (1-e) Functional Web Development with Elixir, OTP, and Phoenix」の進捗管理リポジトリ
+    - https://github.com/matsubara0507/functional-web-development-with-elixir
