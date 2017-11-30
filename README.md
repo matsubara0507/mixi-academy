@@ -5,8 +5,8 @@
 自分で決めてます
 
 - [ ] 1. 本を読む
-    - [ ] (a)「[サーバ/インフラを支える技術](http://amzn.asia/hQvFQUq)」
-    - [ ] (b)「[大規模サービス技術入門](http://amzn.asia/jfTiUOl)」
+    - [x] (a)「[サーバ/インフラを支える技術](http://amzn.asia/hQvFQUq)」
+    - [x] (b)「[大規模サービス技術入門](http://amzn.asia/jfTiUOl)」
     - [ ] (c)「[プログラマのためのGoogle Cloud Platform入門](https://www.amazon.co.jp/gp/aw/d/4798137146/)」
     - [ ] (d)「[理論から学ぶデータベース実践入門](http://amzn.asia/7UUNinY)」
     - [ ] (e)「[Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)」
